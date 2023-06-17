@@ -28,4 +28,11 @@ in Multilingual Self-supervised Models](https://aclanthology.org/2023.sigtyp-1.2
 we investigate the nature of the discrete units in multilingual, self-supervised speech models. We employed language identification as a probing task and demonstrated the difficulty of predicting the language of an utterance from its discretized representation. Our findings support the hypothesis that latent, discretized speech representations in self-supervised models correspond to sub-phonetic
 events that are shared across the world’s languages,rather than language-specific, abstract phonemic categories.
 
+- 🔭 Coauthored **IJCNN 2023** paper [Backchannel Detection and Agreement Estimation from Video with Transformer Networks
+](https://arxiv.org/pdf/2306.01656.pdf)
+
+Listeners use short interjections, so-called backchannels, to signify attention or express agreement. The automatic analysis of this behavior is of key importance for human conversation analysis and interactive conversational agents. Current state-of-the-art approaches for backchannel analysis from visual behavior make use of two types of features: features based on body pose and features based on facial behavior. At the same time, transformer neural networks have been established as an effective means to fuse input from different data sources, but they have not yet been applied to backchannel analysis. In this work, we conduct a comprehensive evaluation of multi-modal transformer architectures for automatic backchannel analysis based on pose and facial information. We address both the detection of backchannels as well as the task of estimating the agreement expressed in a backchannel. In evaluations on the MultiMediate’22 backchannel detection challenge, we reach 66.4% accuracy with a one-layer transformer architecture, outperforming the previous state of the art. With a two-layer transformer architecture, we furthermore set a new state of the art (0.0604 MSE) on the task of estimating the amount of agreement expressed in a backchannel.
+
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maqsoodshaik&show_icons=true&locale=en&layout=compact" alt="maqsoodshaik" /></p>
